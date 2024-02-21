@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 Developer of  <a href="https://play.google.com/store/apps/details?id=com.tester.wpswpatester">WIFI WPS WPA TESTER</a> one of the most known app in Android about Wi-Fi security with more than 150Million Downloads
 
-<p align="center">
-  <img alt="Git Hub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=fulvius31&card_width=300&theme=transparent&exclude_days=Sun%2CSat&excludeDaysLabel=EB545400&hide_current_streak=true" />
-  <img alt="Git Hub Stats" src="https://github-readme-stats.vercel.app/api?username=fulvius31&show_icons=true&theme=transparent&custom_title=fulvius31%27s%20stats" />
-</p>
