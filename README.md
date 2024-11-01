@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-🔭 PhD student in Computer Science in the 🇺🇸, with a focus on networks and cybersecurity
+🔭 Software Engineer at Red Hat
 
-🛠️ Software Engineer and Entrepreneur founder of <a href="https://sangiorgisrl.it">Sangiorgi SRL</a> the first Italian company based on number of downloads in Google Playstore <a href="https://42matters.com/top-italian-mobile-app-developers-based-on-downloads">42Matters</a>
+🛠️ Ex-Entrepreneur founder of <a href="https://sangiorgisrl.it">Sangiorgi SRL</a> the second Italian company based on number of downloads in Google Playstore <a href="https://42matters.com/top-italian-mobile-app-developers-based-on-downloads">42Matters</a>
 
 👨🏻‍💻 Developer of  <a href="https://play.google.com/store/apps/details?id=com.tester.wpswpatester">WIFI WPS WPA TESTER</a> one of the most known app in Android about Wi-Fi security with more than 150Million Downloads
 
